@@ -12,14 +12,17 @@
   <img src="https://komarev.com/ghpvc/?username=Ishika0424&label=Profile%20views&color=0e75b6&style=flat" alt="Ishika0424" />
 </p>
 
-### 👩‍💻 About Me
+### 🎓 About Me
 
-- 🎓 **B.Tech Student at UPES** | Class of 2027  
-- 🧠 Currently Interning @ **DRDO (DRDL)** as a Software Developer  
-- 🌱 Exploring **AI/ML**, **Data Analysis**, and **Flutter Development**  
-- 💬 Ask me about: `Python`, `Java`, `Linux`, `AI/ML`, `Frontend`, `DBMS`  
-- 📫 Email: [ishika.garg2404@gmail.com](mailto:ishika.garg2404@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ishikagarg-924099276](https://www.linkedin.com/in/ishikagarg-924099276)
+I'm **Ishika Garg**, a passionate and driven B.Tech student at **UPES**, graduating in 2027. I'm currently  was a intern as a Software Developer at **DRDO (DRDL)**, where I'm gained a hands-on experience in building robust software solutions.
+
+My core interests lie in **Artificial Intelligence (AI)** and **Machine Learning (ML)**, with a strong foundation in **Data Analysis** and **Flutter Development**. I am dedicated to building innovative and impactful projects that leverage technology to solve real-world problems.
+
+- 🌱 I'm actively exploring new concepts in `AI/ML`, `Data Science`, and `Flutter`.
+- 💬 Ask me about: `Python`, `Java`, `Linux`, `Frontend Development`, `DBMS`, and my projects.
+- 📫 **Email**: [ishika.garg2404@gmail.com](mailto:ishika.garg2404@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ishikagarg-924099276](https://www.linkedin.com/in/ishikagarg-924099276)
+
 
 ---
 
@@ -68,6 +71,6 @@
 ### 🧠 Let's Learn Together!
 
 > "Knowledge grows by sharing it." — If you're building something cool, feel free to connect.  
-> I'm always open to **collaboration**, **internship** opportunities, and **technical writing**.
+> I'm always open to **collaboration**, **Job Role** opportunities, and **technical writing**.
 
 ---
