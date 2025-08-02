@@ -32,10 +32,6 @@ My core interests lie in **Artificial Intelligence (AI)** and **Machine Learning
   <a href="https://www.linkedin.com/in/ishikagarg-924099276" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  &nbsp;
-  <a href="mailto:ishika.garg2404@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Email.svg" alt="Email" width="30" height="30" />
-  </a>
 </p>
 
 ---
